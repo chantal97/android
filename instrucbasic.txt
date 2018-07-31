@@ -1,0 +1,7 @@
+librerias basicas:
+import android.util.log
+variables dos tipos
+var:
+variables conmutables
+val:
+variables no conmutables
